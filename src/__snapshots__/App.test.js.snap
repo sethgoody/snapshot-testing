@@ -26,12 +26,13 @@ exports[`renders a snapshot 1`] = `
       <div
         className="card-title h5"
       >
-        Esteban Sepulveda
+        Seth Goodman
       </div>
       <p
         className="card-text"
       >
-        Software Developer. Current student attending SDSU's Software Development Bootcamp. Actively expanding my knowledge in software development.
+       Seth likes to code
+       
       </p>
     </div>
   </div>
